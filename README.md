@@ -35,8 +35,7 @@ A dependency graph engine that understands your entire codebase.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=stulevtoday&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a12&title_color=5b7fff&icon_color=5b7fff&text_color=c8c8d0" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stulevtoday&theme=midnight-purple&hide_border=true&background=0a0a12&ring=5b7fff&fire=ff6b8a&currStreakLabel=5b7fff&sideLabels=c8c8d0&dates=555555" width="49%" />
+<img src="https://streak-stats.demolab.com?user=stulevtoday&theme=midnight-purple&hide_border=true&background=0a0a12&ring=5b7fff&fire=ff6b8a&currStreakLabel=5b7fff&sideLabels=c8c8d0&dates=555555" width="52%" />
 
 ---
 
